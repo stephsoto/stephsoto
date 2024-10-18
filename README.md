@@ -2,7 +2,7 @@
 
 <h2>👩🏻‍💻 Data Analyst Projects:</h2>
 
-  - [Data Mining](https://github.com/stephsoto/DataMining)
+  - [Data Mining Player Project](https://github.com/stephsoto/DataMining)
 
 
 <h2> 📑 Certifications </h2>
@@ -12,7 +12,7 @@
 
 - <h2> 📺 Youtube Videos </h2>
 
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [A Day in the Life of a Data Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 <h2> 🤳 Connect with me:</h2>
 
