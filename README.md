@@ -2,7 +2,7 @@
 
 <h2>👩🏻‍💻 Data Analyst Projects:</h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/DataMining)
+  - [Data Mining](https://github.com/stephsoto/DataMining)
 
 
 <h2> 📑 Certifications </h2>
