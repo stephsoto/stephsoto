@@ -2,7 +2,7 @@
 
 <h2>👩🏻‍💻 Data Analyst Projects:</h2>
 
-  - [Data Mining Player Project](https://github.com/stephsoto/DataMining)
+  - [Data Mining Players Project](https://github.com/stephsoto/DataMining)
 
 
 <h2> 📑 Certifications </h2>
