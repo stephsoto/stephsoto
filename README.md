@@ -2,7 +2,7 @@
 
 <h2>👩🏻‍💻 Data Analyst Projects:</h2>
 
-* <h1>Data Analysis</h1>
+* <h2>Data Analysis</h2>
 
   - [Soccer Players Visualization : Bar Plots and Rankings ](https://github.com/stephsoto/DataMining)
   - [Student Results : HeatMap, BoxPlot and groups distribution](https://github.com/stephsoto/DataMining/blob/main/Student_Results_Analysis_Project.ipynb)
