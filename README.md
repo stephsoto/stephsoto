@@ -7,10 +7,10 @@
   - [Soccer Players Visualization : Bar Plots and Rankings ](https://github.com/stephsoto/DataMining)
   - [Student Results : HeatMap, BoxPlot and groups distribution](https://github.com/stephsoto/DataMining/blob/main/Student_Results_Analysis_Project.ipynb)
  
-* <h1>SQL</h1>
+* <h4>SQL</h4>
   - [Data Cleaning MySQL ](https://github.com/stephsoto/DataMining/blob/main/DataCleaningProject.sql)
  
-* <h1>Machine Learning</h1>
+* <h4>Machine Learning</h4>
   - [Logistic Regression](https://github.com/stephsoto/DataMining/blob/main/Logistic_Regression_S.ipynb)
   - [Linear Regression](https://github.com/stephsoto/DataMining/blob/main/Logistic_Regression_S.ipynb)
   
