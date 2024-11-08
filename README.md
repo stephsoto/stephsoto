@@ -13,8 +13,8 @@
  
 * <h4>Machine Learning</h4>
 
-  - [Logistic Regression](https://github.com/stephsoto/DataMining/blob/main/Logistic_Regression_S.ipynb)
-  - [Linear Regression](https://github.com/stephsoto/DataMining/blob/main/Logistic_Regression_S.ipynb)
+  - [Logistic Regression : age vs insurance price ](https://github.com/stephsoto/DataMining/blob/main/Logistic_Regression_S.ipynb)
+  - [Linear Regression : carprice vs mileage](https://github.com/stephsoto/DataMining/blob/main/Logistic_Regression_S.ipynb)
   
 
 
