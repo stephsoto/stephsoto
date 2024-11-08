@@ -9,7 +9,7 @@
  
 * <h4>SQL</h4>
 
-  - [Data Cleaning MySQL](https://github.com/stephsoto/DataMining/blob/main/DataCleaningProject.sql)
+  - [Data Cleaning ](https://github.com/stephsoto/DataMining/blob/main/DataCleaningProject.sql)
  
 * <h4>Machine Learning</h4>
 
