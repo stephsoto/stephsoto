@@ -15,8 +15,9 @@
  
 * <h4>SQL</h4>
 
-  - [Data Cleaning ](https://github.com/stephsoto/DataMining/blob/main/DataCleaningProject.sql)
   - [Student Grades : The Big 6 ](https://github.com/stephsoto/DataMining/blob/568bcdf44d62116d4b711ddd1fc5cf5b60cbf015/BIG6_byme.sql)
+  - [Restaurant Orders: Extracting Data]( https://github.com/stephsoto/DataMining/blob/993c1a6bb4413bb9b90741042fb23470bcc7d997/Restaurant_Orders_SS.sql)
+  - [Data Cleaning : Transforming Data ](https://github.com/stephsoto/DataMining/blob/main/DataCleaningProject.sql)
 
 
  
