@@ -2,6 +2,12 @@
 
 <h2>👩🏻‍💻 Data Analyst Projects:</h2>
 
+* <h4>Excel</h4>
+
+
+
+
+
 * <h4>Data Analysis</h4>
 
   - [Soccer Players Visualization : Bar Plots and Rankings ](https://github.com/stephsoto/DataMining)
