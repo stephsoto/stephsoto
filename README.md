@@ -5,7 +5,7 @@
 * <h4>Excel</h4>
 
   - [Coffee Shop: Sales Dashboard ](https://github.com/stephsoto/DataMining/blob/2126c88a03a2e718363bfce63d9df886c0986938/Coffee%20Shop%20Sales_SS.xlsx)
-
+  - [Coffee Shop: Orders & Sales Dashboard ](https://github.com/stephsoto/DataMining/blob/110694f75fe72c17749ae8954aacc452afe209a8/coffeeOrdersData_SS.xlsx)
 
 
 * <h4>Data Analysis</h4>
