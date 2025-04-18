@@ -16,6 +16,9 @@
 * <h4>SQL</h4>
 
   - [Data Cleaning ](https://github.com/stephsoto/DataMining/blob/main/DataCleaningProject.sql)
+  - [Student Grades : The Big 6 ](https://github.com/stephsoto/DataMining/blob/568bcdf44d62116d4b711ddd1fc5cf5b60cbf015/BIG6_byme.sql)
+
+
  
 * <h4>Machine Learning</h4>
 
