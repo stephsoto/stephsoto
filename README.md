@@ -18,7 +18,7 @@
 
 * <h4>Tableu </h4>
 
-  - [Netflix Visualization ](https://github.com/stephsoto/DataMining/blob/568bcdf44d62116d4b711ddd1fc5cf5b60cbf015/BIG6_byme.sql)
+  - [Netflix Visualization ](https://github.com/stephsoto/DataMining/blob/bc17d1eb349dbaedd8558b2fa743229464a2b215/Netflix_Final.twb)
   - [Airbnb Full Project]( https://github.com/stephsoto/DataMining/blob/993c1a6bb4413bb9b90741042fb23470bcc7d997/Restaurant_Orders_SS.sql)
 
 
