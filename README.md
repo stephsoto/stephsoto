@@ -19,7 +19,7 @@
 * <h4>Tableu </h4>
 
   - [Netflix Visualization ](https://github.com/stephsoto/DataMining/blob/bc17d1eb349dbaedd8558b2fa743229464a2b215/Netflix_Final.twb)
-  - [Airbnb Full Project]( https://github.com/stephsoto/DataMining/blob/993c1a6bb4413bb9b90741042fb23470bcc7d997/Restaurant_Orders_SS.sql)
+  - [Airbnb Full Project](https://github.com/stephsoto/DataMining/blob/bc17d1eb349dbaedd8558b2fa743229464a2b215/Airbnb%20Full%20Project.twb)
 
 
 * <h4>Data Analysis</h4>
