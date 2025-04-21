@@ -7,20 +7,28 @@
   - [Coffee Shop: Sales Dashboard ](https://github.com/stephsoto/DataMining/blob/2126c88a03a2e718363bfce63d9df886c0986938/Coffee%20Shop%20Sales_SS.xlsx)
   - [Coffee Shop: Orders & Sales Dashboard ](https://github.com/stephsoto/DataMining/blob/110694f75fe72c17749ae8954aacc452afe209a8/coffeeOrdersData_SS.xlsx)
 
-
-* <h4>Data Analysis</h4>
-
-  - [Soccer Players Visualization : Bar Plots and Rankings ](https://github.com/stephsoto/DataMining)
-  - [Student Results : HeatMap, BoxPlot and groups distribution](https://github.com/stephsoto/DataMining/blob/main/Student_Results_Analysis_Project.ipynb)
  
 * <h4>SQL</h4>
 
   - [Student Grades : The Big 6 ](https://github.com/stephsoto/DataMining/blob/568bcdf44d62116d4b711ddd1fc5cf5b60cbf015/BIG6_byme.sql)
   - [Restaurant Orders: Extracting Data]( https://github.com/stephsoto/DataMining/blob/993c1a6bb4413bb9b90741042fb23470bcc7d997/Restaurant_Orders_SS.sql)
   - [Layoffs Data Cleaning : Transforming Data ](https://github.com/stephsoto/DataMining/blob/main/DataCleaningProject.sql)
-
-
  
+
+
+* <h4>Tableu </h4>
+
+  - [Netflix Visualization ](https://github.com/stephsoto/DataMining/blob/568bcdf44d62116d4b711ddd1fc5cf5b60cbf015/BIG6_byme.sql)
+  - [Airbnb Full Project]( https://github.com/stephsoto/DataMining/blob/993c1a6bb4413bb9b90741042fb23470bcc7d997/Restaurant_Orders_SS.sql)
+
+
+* <h4>Data Analysis</h4>
+
+  - [Soccer Players Visualization : Bar Plots and Rankings ](https://github.com/stephsoto/DataMining)
+  - [Student Results : HeatMap, BoxPlot and groups distribution](https://github.com/stephsoto/DataMining/blob/main/Student_Results_Analysis_Project.ipynb)
+
+
+
 * <h4>Machine Learning</h4>
 
   - [Logistic Regression : age vs insurance price ](https://github.com/stephsoto/DataMining/blob/main/Logistic_Regression_S.ipynb)
