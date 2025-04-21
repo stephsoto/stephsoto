@@ -24,7 +24,7 @@
 
 * <h4>Data Analysis</h4>
 
-  - [Soccer Players Visualization : Bar Plots and Rankings ](https://github.com/stephsoto/DataMining)
+  - [Soccer Players Visualization : Bar Plots and Rankings ](https://github.com/stephsoto/DataMining/blob/bc17d1eb349dbaedd8558b2fa743229464a2b215/Data_Mining_Players_Project.ipynb)
   - [Student Results : HeatMap, BoxPlot and groups distribution](https://github.com/stephsoto/DataMining/blob/main/Student_Results_Analysis_Project.ipynb)
 
 
